@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="bw-runtime">
+<locations>
+
+<location path="/D:/programs/bwcloud2/bwcloud/palettes/netsuite/6.3//hotfix/runtime/plugins" type="Directory"/>
+<location path="/D:/programs/bwcloud2/bwcloud/palettes/netsuite/6.3//runtime/plugins" type="Directory"/>
+<location path="/D:/programs/bwcloud2/bwcloud/palettes/salesforce/6.6//hotfix/runtime/plugins" type="Directory"/>
+<location path="/D:/programs/bwcloud2/bwcloud/palettes/salesforce/6.6//runtime/plugins" type="Directory"/>
+
+
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/hotfix/lib/common" type="Directory"/>
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/lib/common" type="Directory"/>
+
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/hotfix/palettes" type="Directory"/>
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/palettes" type="Directory"/>
+
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/hotfix/shared" type="Directory"/>
+<location path="D:/programs/bwcloud2/bwcloud/1.1/system/shared" type="Profile"/>
+</locations>
+</target>

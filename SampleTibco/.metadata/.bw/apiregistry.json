@@ -1,0 +1,16 @@
+{
+    "layout": "flat",
+    "showApiRegistryUrl": false,
+    "groupAppBySandbox": false,
+    "config": [{
+        "isVPNConnectionSpecEnabled": false,
+        "vpnConnectionConfig": [],
+        "readonly": false,
+        "isEnabled": true,
+        "name": "Cloud",
+        "updateSite": "https://integration.cloud.tibco.com/update-site/eclipse",
+        "type": "cloud",
+        "url": "https://integration.cloud.tibco.com:443"
+    }],
+    "groupByApiRegistry": false
+}
